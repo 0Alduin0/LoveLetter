@@ -196,7 +196,7 @@
 
 
 .a4 {
-  left: 65%;
+  left: 15%;
   transform: scale(0.4);
   opacity: 1;
   -webkit-animation: slideUp 5.5s linear 1, sideSway 3s ease-in-out 3 alternate;
@@ -214,7 +214,7 @@
 }
 
 .a6 {
-  left: 85%;
+  left: 45%;
   transform: scale(0.3);
   animation: slideUp 7s linear 1, sideSway 4s ease-in-out 3 alternate;
   animation-fill-mode: forwards;
@@ -230,7 +230,7 @@
 }
 
 .a8 {
-  left: 45%;
+  left: 35%;
   transform: scale(0.5);
   animation: slideUp 5s linear 1, sideSway 2s ease-in-out 5 alternate;
   animation-fill-mode: forwards;
@@ -238,7 +238,7 @@
 }
 
 .a9 {
-  left: 75%;
+  left: 51%;
   transform: scale(0.4);
   animation: slideUp 7.5s linear 1, sideSway 3.5s ease-in-out 3 alternate;
   animation-fill-mode: forwards;
@@ -254,7 +254,7 @@
 }
 
 .a11 {
-  left: 95%;
+  left: 53%;
   transform: scale(0.3);
   animation: slideUp 5.2s linear 1, sideSway 3.2s ease-in-out 3 alternate;
   animation-fill-mode: forwards;
@@ -262,7 +262,7 @@
 }
 
 .a12 {
-  left: 5%;
+  left: 7%;
   transform: scale(0.5);
   animation: slideUp 7.2s linear 1, sideSway 2.7s ease-in-out 5 alternate;
   animation-fill-mode: forwards;
@@ -278,7 +278,7 @@
 }
 
 .a14 {
-  left: 80%;
+  left: 47%;
   transform: scale(0.6);
   animation: slideUp 5.7s linear 1, sideSway 2.9s ease-in-out 3 alternate;
   animation-fill-mode: forwards;
@@ -286,7 +286,7 @@
 }
 
 .a15 {
-  left: 30%;
+  left: 12%;
   transform: scale(0.5);
   animation: slideUp 7.7s linear 1, sideSway 3.7s ease-in-out 4 alternate;
   animation-fill-mode: forwards;
@@ -294,7 +294,7 @@
 }
 
 .a16 {
-  left: 70%;
+  left: 20%;
   transform: scale(0.3);
   animation: slideUp 6.1s linear 1, sideSway 2.6s ease-in-out 5 alternate;
   animation-fill-mode: forwards;
@@ -302,7 +302,7 @@
 }
 
 .a17 {
-  left: 20%;
+  left: 28%;
   transform: scale(0.7);
   animation: slideUp 5.9s linear 1, sideSway 3.1s ease-in-out 3 alternate;
   animation-fill-mode: forwards;
@@ -310,7 +310,7 @@
 }
 
 .a18 {
-  left: 60%;
+  left: 56%;
   transform: scale(0.4);
   animation: slideUp 7.3s linear 1, sideSway 2.4s ease-in-out 4 alternate;
   animation-fill-mode: forwards;
@@ -318,7 +318,7 @@
 }
 
 .a19 {
-  left: 90%;
+  left: 43%;
   transform: scale(0.5);
   animation: slideUp 6.6s linear 1, sideSway 3.4s ease-in-out 3 alternate;
   animation-fill-mode: forwards;
@@ -326,7 +326,7 @@
 }
 
 .a20 {
-  left: 40%;
+  left: 49%;
   transform: scale(0.6);
   animation: slideUp 5.4s linear 1, sideSway 2.8s ease-in-out 5 alternate;
   animation-fill-mode: forwards;
@@ -350,7 +350,7 @@
 }
 
 .a23 {
-  left: 82%;
+  left: 25%;
   transform: scale(0.3);
   animation: slideUp 5.8s linear 1, sideSway 3.8s ease-in-out 5 alternate;
   animation-fill-mode: forwards;
